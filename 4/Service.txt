@@ -1,4 +1,6 @@
 service
 method1
+method21
 method2
+method22
 end service
