@@ -1,2 +1,4 @@
 begin iservice
+imethod1
+imethod2
 end iservice

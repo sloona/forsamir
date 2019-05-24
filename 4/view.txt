@@ -1,5 +1,7 @@
 begin view
 field1
+field11
 field2
 field3
+field12
 end view
